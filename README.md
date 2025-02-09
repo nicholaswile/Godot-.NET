@@ -2,7 +2,7 @@
 My implementations of Godot's getting started projects, translated from GDScript to C# .NET and rewritten for efficiency. 
 
 ## The gist
-I noticed most of Godot's tutorials are for GDScript because it is approachable for beginners to write code quickly; however, as projects scale I believe C# with IDE integration (e.g. Visual Studio) could make development time faster due to the enhanced debugging and refactoring capabilities. I implemented Godot's getting started tutorials in C# to provide samples of its use in Godot, rewriting them for efficiency by removing repeated node retrieval and instead caching references to frequently called or created nodes by declaring variables as class properties.
+I noticed most of Godot's tutorials are for GDScript because it is approachable for beginners to write code quickly; however, as projects scale I believe C# with IDE integration (e.g. Visual Studio) could make development time faster due to the enhanced debugging and refactoring capabilities. I implemented Godot's getting started tutorials in C# to provide samples of its use in Godot, rewriting them for efficiency by removing repeated node retrieval and instead caching references to frequently called or created nodes.
 
 ## Getting Started 2D
 
