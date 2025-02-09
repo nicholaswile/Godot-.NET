@@ -8,7 +8,7 @@ I noticed most of Godot's tutorials are for GDScript because it is approachable 
 
 <img src="screenshots/GD_2D.gif">
 
-<a href="#">Code</a> | <a href = "https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html">Reference</a>
+<a href="https://github.com/nicholaswile/Godot-.NET/tree/main/2d/src">Code</a> | <a href = "https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html">Reference</a>
 
 I only provide the new C# code, the assets are available on the Godot reference link. You'll have to implement the sprite animations, input processing, and HUD in Godot's editor. For input, I used the following mappings for keyboard and USB controller:
 
